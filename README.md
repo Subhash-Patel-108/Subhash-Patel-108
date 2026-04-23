@@ -72,7 +72,7 @@ A complete full-stack authentication platform built to production security stand
 
 ---
 
-### 🔗 SnapURL — Bitly-Grade URL Shortener with Analytics
+### 🔗 Dishari — Bitly-Grade URL Shortener with Analytics
 > `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `React` `TypeScript` `Chart.js`
 
 A full-stack URL shortening platform with real analytics — built for scale, not just demo.
